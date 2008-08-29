@@ -1,0 +1,35 @@
+/******************************************************************************
+God's Porch Quiz
+
+@created 08.2008
+@author Yannick Lyn Fatt
+
+******************************************************************************/
+
+-------------------------------------------------------------------------------
+Purpose
+-------------------------------------------------------------------------------
+
+The purpose of this application is twofold. On the one hand it is an application
+that will help users of the CodeIgniter PHP framework see how a web application
+may be built using CI, while, on the other hand I hope it can be used by others
+to build and manage their own Bible quizzes.
+
+-------------------------------------------------------------------------------
+Features
+-------------------------------------------------------------------------------
+1. Create any number of quizzes
+2. Allow for timed quizzes
+3. Allow for storing of user results
+4. Keep a pool of questions so that questions can be reused if needed.
+5. 
+
+-------------------------------------------------------------------------------
+Requirements
+-------------------------------------------------------------------------------
+This application has the following requirements:
+
+1. CodeIgniter PHP Framework (http://www.codeigniter.com)
+2. Webserver, preferrably Apache with PHP 5.2 or higher though it should pretty
+   much work with anything.
+3. MySQL database 5.0 or higher
