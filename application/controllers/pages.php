@@ -1,9 +1,9 @@
 <?php
-class Home extends Controller
+class Pages extends CI_Controller
 {
-    function Home()
+    function _construct()
     {
-        parent::Controller();
+        parent::_construct();
     }
     
     function index()
